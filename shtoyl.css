@@ -1,0 +1,51 @@
+html{
+	margin: 20px;
+    background-color: 
+}
+body {
+    font-size: 1em;
+    font-family: arial;
+    font-weight: 200;
+    color: black;
+    line-height: 2
+}
+.flex-container {
+  display: flex;
+    font-size: 1.6em
+}
+header {
+    font-size: 1.4em;
+    color: black;
+}
+nav {
+    line-height: 1.6;
+}
+h1 {
+    font-size: 2em;
+    font-weight: 200;
+    color: black;
+    margin-left: 1em
+}
+h2 {
+    font-size: 2.4em;
+    font-weight: 100;
+    color: black;
+    margin-left: 2em
+}
+p {
+    font-size: 1em;
+    color: black;
+    line-height: 1.2;
+}
+img {
+    max-width: 50%;
+    height: auto;
+    margin-left: 12em;
+}
+video {
+    max-width: 50%;
+    height: auto;
+    margin-left: 12em;
+}
+
+    
