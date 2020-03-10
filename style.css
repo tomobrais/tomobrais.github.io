@@ -19,6 +19,7 @@ header {
 }
 nav {
     line-height: 1.6;
+    position: fixed
 }
 h1 {
     font-size: 2em;
@@ -30,7 +31,7 @@ h2 {
     font-size: 2.4em;
     font-weight: 100;
     color: black;
-    margin-left: 2em
+    margin-left: 10em
 }
 p {
     font-size: 1em;
@@ -40,12 +41,12 @@ p {
 img {
     max-width: 50%;
     height: auto;
-    margin-left: 12em;
+    margin-left: 20em;
 }
 video {
     max-width: 50%;
     height: auto;
-    margin-left: 12em;
+    margin-left: 20em;
 }
 
     
